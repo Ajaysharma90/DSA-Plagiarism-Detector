@@ -158,10 +158,8 @@ DSA-Plagiarism-Detector/
    ```
 ## future Plan
 - Implementing Redis for caching.
-## Contributors-
-- Kanha gupta
-- Rahul Shekhawat
-- Tushar Singhal
+
+
 ## Images
 ![Screenshot 2025-05-29 142307](https://github.com/user-attachments/assets/03f565cd-80a3-4558-9aad-299ec7896a38)
 ![Screenshot 2025-05-29 142301](https://github.com/user-attachments/assets/d5c6912c-2814-4016-9da2-747b282e11d0)
